@@ -2,6 +2,11 @@
 
 Exports Stack Internal Community members to CSV, including email addresses. Requires Site Admin access.
 
+## Requirements
+
+* Python 3.10 or higher ([download](https://www.python.org/downloads/))
+* Site Admin access on your Stack Internal instance (email field is admin-only)
+
 ## Setup
 
 ```bash
